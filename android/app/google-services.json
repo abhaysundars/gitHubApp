@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1095121315173",
+    "project_id": "githubxplor",
+    "storage_bucket": "githubxplor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095121315173:android:d6c84dc42b0f7b98e32d8c",
+        "android_client_info": {
+          "package_name": "com.example.github_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095121315173-vvhcgaqplbgakv7ocs4cdh3pm58m4pqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.github_project",
+            "certificate_hash": "b5ea75d30fd1e4e736a68d0310839f18ed95bf2d"
+          }
+        },
+        {
+          "client_id": "1095121315173-k4tna21s9l80t2cn40f184tadh3lp4t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7ERoW4kRr28fCezEK89OHU0bJZGRrNVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095121315173-k4tna21s9l80t2cn40f184tadh3lp4t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
